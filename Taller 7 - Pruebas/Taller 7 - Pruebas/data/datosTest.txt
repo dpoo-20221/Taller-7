@@ -1,0 +1,7 @@
+Categoria;;;identificadorPrueba;;;nombrePrueba;;;2
+Categoria;;;identificadorPrueba2;;;nombrePrueba2;;;1
+Marca;;;identificadorPrueba3;;;nombrePrueba3;;;0
+Categoria;;;identificadorPrueba4;;;nombrePrueba4;;;2
+Marca;;;identificadorPrueba5;;;nombrePrueba5;;;0
+Marca;;;identificadorPrueba6;;;nombrePrueba6;;;1
+identificadorPrueba7;;;NombrePrueba7;;;descripcionPrueba7;;;500;;;0
